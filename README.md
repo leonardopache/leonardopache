@@ -11,12 +11,12 @@
 <td> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardopache&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" /></td>
   </tr></table>
   
-Knowledge base
+:bulb: Knowledge Base :bulb:
 <ul>
 <li><a href="https://github.com/leonardopache/cheat-sheets/blob/master/git/git.md" target="_self">:pouting_cat: Git easy commands </a> </li>
-<li><a href="https://github.com/leonardopache/cheat-sheets/README.md" target="_self">:computer: NodeJs commands </a> < </li>
-<li><a href="https://github.com/leonardopache/cheat-sheets/README.md" target="_self">:open_file_folder: SQL commands </a> </li>
-<li><a href="https://github.com/leonardopache/cheat-sheets/README.md" target="_self">:herb: MongoDB commands </a> </li>
+<li><a href="https://github.com/leonardopache/cheat-sheets" target="_self">:computer: NodeJs commands </a> </li>
+<li><a href="https://github.com/leonardopache/cheat-sheets" target="_self">:open_file_folder: SQL commands </a> </li>
+<li><a href="https://github.com/leonardopache/cheat-sheets" target="_self">:herb: MongoDB commands </a> </li>
 </ul>
 
 ```
