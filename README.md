@@ -15,8 +15,8 @@ Knowledge base
 <ul>
 <li><a href="https://github.com/leonardopache/cheat-sheets/blob/master/git/git.md" target="_self">:pouting_cat: Git easy commands </a> </li>
 <li><a href="https://github.com/leonardopache/cheat-sheets/README.md" target="_self">:computer: NodeJs commands </a> < </li>
-<li><a href="https://github.com/leonardopache/cheat-sheets/README.md" target="_self">:open_file_folder: SQL commands </a> < </li>
-<li><a href="https://github.com/leonardopache/cheat-sheets/README.md" target="_self">:herb: MongoDB commands </a> < </li>
+<li><a href="https://github.com/leonardopache/cheat-sheets/README.md" target="_self">:open_file_folder: SQL commands </a> </li>
+<li><a href="https://github.com/leonardopache/cheat-sheets/README.md" target="_self">:herb: MongoDB commands </a> </li>
 </ul>
 
 ```
