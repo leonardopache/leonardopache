@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @leonardopache Software developer 👀  interested in everything related to Development...
 
 - 🌱 I’m currently learning 
-  - 🐍 Python
-  - 🖥 Front-end MERN Stack
+  - 🐍 Python / Spring webflux / Kotlin / Go / Micronaut / Quarkus / ReactiveX project
+  - 🖥 Front-end MERN Stack / Vue / React Native
   - 💹 EA/Python - Quantitative Trading
   - ☕️ Java always... 
 
