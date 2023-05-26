@@ -13,10 +13,10 @@
   
 :bulb: Knowledge Base :bulb:
 <ul>
-<li><a href="https://github.com/leonardopache/cheat-sheets/blob/master/git/git.md" target="_self">:pouting_cat: Git easy commands </a> </li>
-<li><a href="https://github.com/leonardopache/cheat-sheets" target="_self">:computer: NodeJs commands </a> </li>
-<li><a href="https://github.com/leonardopache/cheat-sheets" target="_self">:open_file_folder: SQL commands </a> </li>
-<li><a href="https://github.com/leonardopache/cheat-sheets" target="_self">:herb: MongoDB commands </a> </li>
+<li><a href="https://github.com/leonardopache/cheat-sheets/wiki/git" target="_self">:pouting_cat: Git easy commands </a> </li>
+<li><a href="https://github.com/leonardopache/cheat-sheets/wiki" target="_self">:computer: NodeJs commands </a> </li>
+<li><a href="https://github.com/leonardopache/cheat-sheets/wiki" target="_self">:open_file_folder: SQL commands </a> </li>
+<li><a href="https://github.com/leonardopache/cheat-sheets/wiki" target="_self">:herb: MongoDB commands </a> </li>
 </ul>
 
 ```
